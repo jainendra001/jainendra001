@@ -1,7 +1,7 @@
 [![MasterHead](https://www.freepik.com/free-photos-vectors/programming-banner/2)](https://jainendra001.io)
 <h1 align="center">Hi 👋, I'm Jainendra Tripathy</h1>
 <h3 align="center">A passionate AI/ML and Full Stack Developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
+<img align="right" alt="Coding" width="1000" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jainendra001&label=Profile%20views&color=0e75b6&style=flat" alt="jainendra001" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jainendra001" alt="jainendra001" /></a> </p>
