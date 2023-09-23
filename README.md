@@ -1,4 +1,4 @@
-[![MasterHead](https://previews.123rf.com/images/karpenkoilia/karpenkoilia1806/karpenkoilia180600011/102988806-vector-line-web-concept-for-programming-linear-web-banner-for-coding.jpg)]
+![MasterHead](https://previews.123rf.com/images/karpenkoilia/karpenkoilia1806/karpenkoilia180600011/102988806-vector-line-web-concept-for-programming-linear-web-banner-for-coding.jpg)
 <h1 align="center">Hi 👋, I'm Jainendra Tripathy</h1>
 <h3 align="center">A passionate AI/ML and Full Stack Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
